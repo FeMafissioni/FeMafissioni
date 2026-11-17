@@ -7,7 +7,7 @@
 [![Texto animado](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1300&color=808080&center=true&vCenter=true&width=650&lines=Desenvolvendo+aplica%C3%A7%C3%B5es+full+stack;Integrando+IA+a+solu%C3%A7%C3%B5es+reais;Explorando+arquitetura+e+sistemas+escal%C3%A1veis)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://mafissioni.com)
-<a href="https://www.linkedin.com/in/felipemafissioni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="19" height="19" /> LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NlpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0Wk03LjExOSAyMC40NTJIMy41NTVWOWgzLjU2NHYxMS40NTJaTTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM1oiLz48L3N2Zz4=)](https://www.linkedin.com/in/felipemafissioni/)
 [![E-mail](https://img.shields.io/badge/E--mail-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:femafissioni@gmail.com)
 
 </div>
@@ -22,7 +22,7 @@ Trabalhei com **C#/.NET, React, Next.js e Oracle** em soluções empresariais e,
 
 <div align="left">
 
-### Linguagens e ambiente de execução
+### Linguagens
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52" /></a>
@@ -30,7 +30,7 @@ Trabalhei com **C#/.NET, React, Next.js e Oracle** em soluções empresariais e,
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg" alt="C#" width="52" height="52" /></a>
   <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="Python" width="52" height="52" /></a>
   <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="52" height="52" /></a>
-  <a href="https://www.iso.org/standard/76583.html" title="SQL"><img src="assets/icons/sql.svg" alt="SQL" width="52" height="52" /></a>
+  <img src="assets/icons/sql.svg" alt="SQL" title="SQL" width="52" height="52" />
 </p>
 
 ### Frontend e mobile
@@ -63,7 +63,7 @@ Trabalhei com **C#/.NET, React, Next.js e Oracle** em soluções empresariais e,
 
 <p align="left">
   <a href="https://azure.microsoft.com/" title="Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azure/azure-original.svg" alt="Azure" width="52" height="52" /></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="52" height="52" /></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="52" height="52" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" alt="Docker" width="52" height="52" /></a>
   <a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg" alt="GitHub" width="52" height="52" /></a>
   <a href="https://jestjs.io/" title="Jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jest/jest-plain.svg" alt="Jest" width="52" height="52" /></a>
@@ -99,18 +99,16 @@ Trabalhei com **C#/.NET, React, Next.js e Oracle** em soluções empresariais e,
   <tr>
     <td width="50%" valign="top">
       <h3>Fast Market</h3>
-      <p>Plataforma web e mobile para comparar preços de supermercados, organizar listas de compras e despensas digitais e realizar pedidos, com recursos de estoque e gestão para estabelecimentos.</p>
+      <p>Plataforma web e mobile para comparação de preços de supermercados, gestão de listas de compras, despensa digital, pedidos e controle de estoque para estabelecimentos.</p>
       <p><code>React</code> <code>React Native</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Stripe</code></p>
+      <p><strong>Projeto acadêmico · Repositório privado</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/FeMafissioni/gym-ai-assistant">AI Workout Assistant</a></h3>
-      <p>Bot de Telegram que registra treinos, acompanha cargas e repetições e utiliza modelos de linguagem para gerar análises de desempenho e evolução.</p>
+      <h3>AI Workout Assistant</h3>
+      <p>Bot do Telegram para registro de treinos, acompanhamento de cargas e repetições e análise de desempenho e evolução com modelos de linguagem.</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>IA</code></p>
+      <p><a href="https://github.com/FeMafissioni/gym-ai-assistant"><strong>Ver repositório</strong></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="middle"><strong>Projeto acadêmico · Repositório privado</strong></td>
-    <td width="50%" valign="middle"><a href="https://github.com/FeMafissioni/gym-ai-assistant"><strong>Ver repositório</strong></a></td>
   </tr>
 </table>
 
@@ -154,7 +152,7 @@ Fora do trabalho, gosto de experimentar novas tecnologias e desenvolver projetos
 Estou aberto a conexões, trocas de conhecimento e conversas sobre oportunidades em engenharia de software e desenvolvimento com IA.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafissioni.com)
-<a href="https://www.linkedin.com/in/felipemafissioni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="19" height="19" /> LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NlpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0Wk03LjExOSAyMC40NTJIMy41NTVWOWgzLjU2NHYxMS40NTJaTTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM1oiLz48L3N2Zz4=)](https://www.linkedin.com/in/felipemafissioni/)
 [![E-mail](https://img.shields.io/badge/E--mail-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:femafissioni@gmail.com)
 
 </div>
