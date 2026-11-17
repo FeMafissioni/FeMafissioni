@@ -107,7 +107,7 @@ Trabalhei com **C#/.NET, React, Next.js e Oracle** em soluções empresariais e,
       <h3>AI Workout Assistant</h3>
       <p>Bot do Telegram para registro de treinos, acompanhamento de cargas e repetições e análise de desempenho e evolução com modelos de linguagem.<br />&nbsp;</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>IA</code></p>
-      <p><a href="https://github.com/FeMafissioni/gym-ai-assistant"><strong>Ver repositório</strong></a></p>
+      
     </td>
   </tr>
 </table>
@@ -138,8 +138,6 @@ Pontifícia Universidade Católica de Campinas (PUC-Campinas) · **Concluído em
 <img width="100%" alt="Gráfico de contribuições do GitHub de Felipe Silva" src="https://github-readme-activity-graph.vercel.app/graph?username=FeMafissioni&bg_color=00000000&color=808080&line=808080&point=a0a0a0&area=false&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" />
 
 </div>
-
-> As estatísticas consideram a atividade disponível publicamente no GitHub e não representam toda a minha experiência profissional.
 
 ## Além do código
 
