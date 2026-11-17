@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Felipe Silva!
 
-### Engenheiro de Software | Desenvolvimento Full Stack & IA
+### Engenheiro de Software | Dev Full Stack & AI Engineer
 
 [![Texto animado](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1300&color=808080&center=true&vCenter=true&width=650&lines=Desenvolvendo+aplica%C3%A7%C3%B5es+full+stack;Integrando+IA+a+solu%C3%A7%C3%B5es+reais;Explorando+arquitetura+e+sistemas+escal%C3%A1veis)](https://github.com/DenverCoder1/readme-typing-svg)
 
