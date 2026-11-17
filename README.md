@@ -105,7 +105,7 @@ Trabalhei com **C#/.NET, React, Next.js e Oracle** em soluções empresariais e,
     </td>
     <td width="50%" valign="top">
       <h3>AI Workout Assistant</h3>
-      <p>Bot do Telegram para registro de treinos, acompanhamento de cargas e repetições e análise de desempenho e evolução com modelos de linguagem.</p>
+      <p>Bot do Telegram para registro de treinos, acompanhamento de cargas e repetições e análise de desempenho e evolução com modelos de linguagem.<br />&nbsp;</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>IA</code></p>
       <p><a href="https://github.com/FeMafissioni/gym-ai-assistant"><strong>Ver repositório</strong></a></p>
     </td>
